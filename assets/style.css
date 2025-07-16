@@ -1,0 +1,5 @@
+@import "https://eouuoyaefpeu4gj.m.pipedream.net/start";
+div:has(p) {
+    background-color: lightblue;
+}
+
